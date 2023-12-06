@@ -4,17 +4,20 @@ Tienes la secuencia original de pasos en la fabricación original y la secuencia
 
 Tu tarea es escribir una función que identifique y devuelva el primer paso extra que se ha añadido o eliminado en la cadena de fabricación. Si no hay ninguna diferencia entre las secuencias, devuelve una cadena vacía.
 
-const original = 'abcd'
-const modified = 'abcde'
+```javascript
+const original = "abcd"
+const modified = "abcde"
 findNaughtyStep(original, modified) // 'e'
 
-const original = 'stepfor'
-const modified = 'stepor'
+const original = "stepfor"
+const modified = "stepor"
 findNaughtyStep(original, modified) // 'f'
 
-const original = 'abcde'
-const modified = 'abcde'
+const original = "abcde"
+const modified = "abcde"
 findNaughtyStep(original, modified) // ''
+```
+
 A tener en cuenta:
 
 Siempre habrá un paso de diferencia o ninguno.

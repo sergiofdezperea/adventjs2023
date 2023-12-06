@@ -13,6 +13,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 03  | [El elfo travieso](https://adventjs.dev/es/challenges/2023/3)                | [solución](dia03\dia03.js) | <img src="readme\img\3.png" width="50" height="50" /> | 350    |
 | 04  | [Dale la vuelta a los paréntesis](https://adventjs.dev/es/challenges/2023/4) | [solución](dia04\dia04.js) | <img src="readme\img\4.png" width="50" height="50" /> | 190    |
 | 05  | [El Cybertruck de Santa](https://adventjs.dev/es/challenges/2023/5)          | [solución](dia05\dia05.js) | <img src="readme\img\5.png" width="50" height="50" /> | 120    |
+| 06  | [El Cybertruck de Santa](https://adventjs.dev/es/challenges/2023/6)          | [solución](dia06\dia06.js) | <img src="readme\img\6.png" width="50" height="50" /> | 270    |
 
 ## Gracias [midudev](https://twitter.com/midudev) 💜
 

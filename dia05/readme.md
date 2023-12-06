@@ -16,13 +16,13 @@ Todas las barreras empiezan cerradas, pero después de 5 unidades de tiempo, se 
 
 Crea una función que simule el movimiento del trineo durante un tiempo dado y devuelva un array de cadenas representando el estado de la carretera en cada unidad de tiempo:
 
-const road = 'S..|...|..'
+```javascript
+const road = "S..|...|.."
 
 const time = 10 // unidades de tiempo
 
 const result = cyberReindeer(road, time)
 
-```javascript
 /* -> result:
 [
     'S..|...|..', // estado inicial

@@ -4,22 +4,25 @@ Santa necesita que estos mensajes estén correctamente formateados. Tu tarea es 
 
 Eso sí, ten en cuenta que pueden existir paréntesis anidados, por lo que debes invertir los caracteres en el orden correcto.
 
-const a = decode('hola (odnum)')
+```javascript
+const a = decode("hola (odnum)")
 
 console.log(a) // hola mundo
 
-const b = decode('(olleh) (dlrow)!')
+const b = decode("(olleh) (dlrow)!")
 
 console.log(b) // hello world!
 
-const c = decode('sa(u(cla)atn)s')
+const c = decode("sa(u(cla)atn)s")
 
 console.log(c) // santaclaus
 
 // Paso a paso:
 // 1. Invertimos el anidado -> sa(ualcatn)s
 // 2. Invertimos el que queda -> santaclaus
-Notas:
+```
+
+### Notas:
 
 Las cadenas de entrada siempre estarán bien formadas con paréntesis que coinciden correctamente, no necesitas validarlos.
 En el mensaje final no deben quedar paréntesis.
