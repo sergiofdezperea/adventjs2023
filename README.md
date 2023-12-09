@@ -15,6 +15,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 05  | [El Cybertruck de Santa](https://adventjs.dev/es/challenges/2023/5)          | [solución](dia05/dia05.js) | <img src="readme/img/5.png" width="50" height="50" /> | 120    |
 | 06  | [Los renos a prueba](https://adventjs.dev/es/challenges/2023/6)              | [solución](dia06/dia06.js) | <img src="readme/img/6.png" width="50" height="50" /> | 270    |
 | 07  | [Las cajas en 3D](https://adventjs.dev/es/challenges/2023/7)                 | [solución](dia07/dia07.js) | <img src="readme/img/7.png" width="50" height="50" /> | 190    |
+| 08  | [Ordenando el almacen](https://adventjs.dev/es/challenges/2023/8)            | [solución](dia08/dia08.js) | <img src="readme/img/8.png" width="50" height="50" /> | 230    |
 
 ## Gracias [midudev](https://twitter.com/midudev) 💜
 
