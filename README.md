@@ -16,6 +16,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 06  | [Los renos a prueba](https://adventjs.dev/es/challenges/2023/6)              | [solución](dia06/dia06.js) | <img src="readme/img/6.png" width="50" height="50" /> | 270    |
 | 07  | [Las cajas en 3D](https://adventjs.dev/es/challenges/2023/7)                 | [solución](dia07/dia07.js) | <img src="readme/img/7.png" width="50" height="50" /> | 190    |
 | 08  | [Ordenando el almacen](https://adventjs.dev/es/challenges/2023/8)            | [solución](dia08/dia08.js) | <img src="readme/img/8.png" width="50" height="50" /> | 230    |
+| 09  | [Alterna las luces](https://adventjs.dev/es/challenges/2023/9)               | [solución](dia09/dia09.js) | <img src="readme/img/9.png" width="50" height="50" /> | 300    |
 
 ## Gracias [midudev](https://twitter.com/midudev) 💜
 
